@@ -2,6 +2,8 @@
 done commit for streal saver , 
 here i have changed this file.. and check that can we edit the file of code using mobile devices.
 
+change *1
+
 #here are some changes done for maintain streak 🥲. 
 
 exam is on peak (college exams) , so to save streak i have to do it
