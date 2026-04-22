@@ -10,7 +10,7 @@ exam is on peak (college exams) , so to save streak i have to do it
 
 due to exam, i have to do this
 
-done
+done ✅ 
 
 this page is made for maintain staek only 
 
