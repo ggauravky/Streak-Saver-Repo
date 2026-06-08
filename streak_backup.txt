@@ -5,5 +5,14 @@ doneew
 there is a change
 anpther change
 doneeee
+<<<<<<< HEAD
 done
 yes at last done.
+=======
+donee
+
+day 1 of saving my streak 
+day 2 of saving my streak 
+day 3 of same things 
+day 4 of same things 
+>>>>>>> cdac30d4b83ec57168c968b9c88739fff5dd8997
